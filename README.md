@@ -4,4 +4,4 @@
 
 
 
- This repo contain codes of numpy operations
+ This repo contain codes for core numpy operations
